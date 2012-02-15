@@ -1,5 +1,5 @@
-# Theme based on Twilight (Textmate) for MonoDevelop
-# (Unity3D | Mac)
+# Monolight (MonoDevelop | Unity3D | Mac)
+## MonoDevelop theme based on Twilight (Textmate)
 
 This theme is based on the famous Twilight theme (bundled with Textmate)
 http://manual.macromates.com/en/themes#themes
