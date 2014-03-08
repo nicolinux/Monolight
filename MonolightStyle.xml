@@ -104,4 +104,21 @@
   <Style name="keyword.property" color="#CDA869" />
   <Style name="keyword.parameter" color="#CDA869" />
   <Style name="keyword.misc" color="#CDA869" />
+  <Style name="fold.margin" color="#BABDB6" bgColor="#FDFDFF" />
+  <Style name="keyword.semantic.property" color="#CDA869" />
+  <Style name="keyword.semantic.method" color="#CDA869" />
+  <Style name="keyword.semantic.event" color="#CDA869" />
+  <Style name="keyword.semantic.error" color="#CDA869" />
+  <Style name="marker.usages" color="#FDAB75" bgColor="#FED9C0" />
+  <Style name="tooltip" color="#444444" bgColor="#1A1A1A" />
+  <Style name="tooltip.border" color="#B2B2B2" />
+  <Style name="tooltip.pager.text" color="#828282" />
+  <Style name="tooltip.pager.triangle" color="#737373" />
+  <Style name="tooltip.pager.top" color="#FFFFFF" />
+  <Style name="tooltip.pager.bottom" color="#F5F5F5" />
+  <Style name="xml" color="#444444" bgColor="#FFFFFF" />
+  <Style name="xml.tag" color="#444444" />
+  <Style name="xml.name" color="#3465A4" />
+  <Style name="xml.attribute" color="#444444" />
+  <Style name="xml.cdata" color="#444444" />
 </EditorStyle>
