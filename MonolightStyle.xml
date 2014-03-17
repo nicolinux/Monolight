@@ -73,7 +73,7 @@
   <Style name="string" color="#8F9D6A" />
   <Style name="keyword" color="#CDA869" />
   <Style name="keyword.semantic.type" color="#3399BB" />
-  <Style name="keyword.semantic.field" color="#000000" weight="Italic" />
+  <Style name="keyword.semantic.field" color="#FFFFFF" weight="Italic" />
   <Style name="keyword.type" color="#F9EE98" />
   <Style name="keyword.modifier" color="#F9EE98" />
   <Style name="constant.language" color="#CF694B" />
